@@ -1,0 +1,22 @@
+# Archivos de compilación de Ant
+/build/
+/build.xml
+
+# Archivos de NetBeans
+/nbproject/
+
+# Archivos generados de la compilación
+/target/
+/dist/
+
+# Archivos de dependencias
+lib/
+
+# Archivos temporales de NetBeans
+*.log
+*.bak
+
+# Archivos de configuración de NetBeans
+nbproject/private/
+
+# Archivos de pruebatest/
